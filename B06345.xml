@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and real account of the defeat of General Buchan, and Brigadeer Cannon, their High-land army, at the battel of Crombdell; upon the 1st of May; 1690. Conform to a letter, sent by Sir Thomas Livingston collonel to a regiment of dragoons to Major General Mackay, giving a particular account of the said defeat; with a list of the officers taken at the said battel, and at the castle of Lethen-Dee. Licensed May 8th, 1690.</title>
+            <author>Teviot, Thomas Livingston, Viscount, 1652?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06345</idno>
+            <idno type="STC">Wing T825C</idno>
+            <idno type="STC">ESTC R184977</idno>
+            <idno type="EEBO-CITATION">52529328</idno>
+            <idno type="OCLC">ocm 52529328</idno>
+            <idno type="VID">179133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179133)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and real account of the defeat of General Buchan, and Brigadeer Cannon, their High-land army, at the battel of Crombdell; upon the 1st of May; 1690. Conform to a letter, sent by Sir Thomas Livingston collonel to a regiment of dragoons to Major General Mackay, giving a particular account of the said defeat; with a list of the officers taken at the said battel, and at the castle of Lethen-Dee. Licensed May 8th, 1690.</title>
+                  <author>Teviot, Thomas Livingston, Viscount, 1652?-1711.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: blurred print with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>A true account of the battel at Crombdell May 1st 1690, conform to this letter, is as followeth -- A list of officers taken at the battel of Crombdell, on the first of May, 1690 -- Officers taken in the castle of Lethen-dee.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lancashire Plot, 1689-1694 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179133:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>A True and Real ACCOUNT Of the DEFEAT of GENERAL BUCHAN, And BRIGADEER CANNON, Their High-land Army, at the Battel of <hi>Crombdell;</hi> upon the 1ſt of <hi>May;</hi> 1690.</p>
+            <p>Conform to a Letter, ſent by Sir <hi>Thomas Livingſton</hi> Collonel of a Regiment of Dragoons to Major Ge<g ref="char:EOLhyphen"/>neral <hi>Mackay,</hi> giving a particular Account of the ſaid Defeat; with a Liſt of the Officers taken at the ſaid Battel, and at the Caſtle of <hi>Lethen-Dee.</hi>
+            </p>
+            <p>
+               <hi>Licenſed</hi> May 8th. 1690.</p>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Ander<g ref="char:EOLhyphen"/>ſon,</hi> Anno Dom. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:179133:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="1" facs="tcp:179133:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>A true Account of the Battel at <hi>Crombdell,</hi> May <hi>1ſt. 1690.</hi> conform to this Letter, is, as followeth.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>AS I have in ſeveral Letters before, given you nothing but ill News, ſo I am glad I have now the occaſion of ſending you ſomewhat better: The General <hi>Buchan,</hi> and Brigadeer <hi>Cannon,</hi> with his Highland Army, having for a while marched up and down this Countrey, increaſed as a Snow-Ball dayly, which affrighted and diſcouraged the Countrey ſo far, that upon <hi>Sunday</hi> laſt, I reſolved to march out of <hi>Inverneſs,</hi> with a Detatchment of four hundred men of Sir <hi>James Leſlies,</hi> ſix Companies of <hi>Grants,</hi> the Highland Company of Captain <hi>Mackay,</hi> three Troops of my Dragoons, and my Lord <hi>Yeſter</hi>'s Troop of Horſe, and Camped that Night near <hi>Brodie,</hi> where I was for<g ref="char:EOLhyphen"/>ced to ſtay two dayes, for my Baggage Horſes coming in very ſlow from the Countrey, as likewiſe for the three other Troops of Dragoons from <hi>Elgin,</hi> and Captain <hi>Burnets</hi> of Horſe: The Enemy was at this time at <hi>Strathſpey,</hi> threatning to Slay and Burn all that would not joyn; whereupon I reſolved the thirtieth of <hi>April,</hi> about twelve a Clock in the Day, having then got certain Intelligence where they Camped, and what number they were, to march towards them, we marched the whole Night in as bad Ground as <hi>Lo<g ref="char:EOLhyphen"/>chaber</hi> may be, till at laſt, by two a Clock in the morning we got to <hi>Ball-Chastle,</hi> where being arrived, we diſcovered by the Enemies Fires their Camp, I informed my ſelf of the Nature of the Ground, and the depth of the River, and notwithſtanding they told me, the Ground was ſomewhat Boggiſh, I formed a Deſign to Attacque them by ſurprize, for they did not know of my being arrived, but my Men and Horſe being ſo extreamly wearied, I gave them about half an hour to refreſh themſelves, after which time, I called the Offi<g ref="char:EOLhyphen"/>cers together, and told them my reſolution, ſo that they might Examine their Soldiers, if they were able to do it, who unanimouſly told me, they would ſtand by me to the laſt man, and deſired earneſtly to go on; I having got Guides by this time in readineſs, we paſſed the River by three a Clock in the morning, at one Foord, where there was a Church, the Enemy keeped a ſtrong Guard, where I ſent ſome Foot, and a few Dragoons, to Fire upon them, and Amuſe them, and in the mean time paſt the River an another Foord, below it, two Troops of Dragoons, and Captain <hi>Mackay</hi>'s Highland Compa<g ref="char:EOLhyphen"/>ny was already paſſed before the Enemy perceived us, and then we ſee them run in Parties up and down, not knowing which way to turn themſelves, be<g ref="char:EOLhyphen"/>ing ſurprized, ſo I commanded all the Horſe and Dragoons to joyn, and pur<g ref="char:EOLhyphen"/>ſued them, which affrighted them, ſo that they took themſelves to the Hills; and at the foot of <hi>Crombdel</hi> we overtook them, attacked them, killing be<g ref="char:EOLhyphen"/>twixt three and four hundred upon the place, and took about 100 Priſoners, the greater part of them Officers, the reſt got off by a Miſt, that came juſt at that time upon the top of the Hill, ſo that we could ſcarcely ſee one another, o<g ref="char:EOLhyphen"/>therwayes the Slaughter ſhould have been greater, ſo I cauſed <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Retreat, our Horſes being ready to fall down, and drew up upon the low Ground, Pri<g ref="char:EOLhyphen"/>ſoners being brought to me from all hands: <hi>Buchan,</hi> when they took the alarm firſt, ſent a Nephew of his with ſome more Officers and Soldiers, in an old Caſtle, who at firſt ſeemed to be Opinionate, I cauſed to ſurround them, and finding the Ground proper to undermind them, which they finding, ſurrendred them<g ref="char:EOLhyphen"/>ſelves to the King's mercy: <hi>Buchan</hi> got off, without Hatt, Coat, or Sword, and was ſeen that day, and in that poſture, in <hi>Glenlivet,</hi> very much Fatigued, carryed in a Couſins Houſe of his; <hi>Cannon</hi> got away in his Night-Gown, <hi>Dumfermling</hi> had gone from them about ſome buſineſs the day before.</p>
+            <p>We have taken all their Baggage and Ammunition, and the Soldiers have got more conſiderable Plunder, as I thought, they carryed about with them. Their King and Queens Standard, where they cited the Countrey people to
+<pb n="2" facs="tcp:179133:3"/>
+               <!-- PDF PAGE 57 -->repair to, are taken; there are ſaid to be people of note, that are killed, but of this, I can give you no certain accompt, being that when we came to viſit them, they were all naked, by what we could judge, there was ſome appea<g ref="char:EOLhyphen"/>rance of it.</p>
+            <p>The reſolution and forwardneſs of all the Troops is admirable; and although the Foot could not get up to us, they marched after us with as great dili<g ref="char:EOLhyphen"/>gence as poſſible.</p>
+            <p>It is remarkable, that in this whole buſineſs there is not one man loſt, three or four wounded; but not dangerouſly either, and about a dozen of Horſes, but many Horſes diſabled. This night we have had one of the ſevereſt that could be; I deſign to purſue this, and ſee if I can diſperſe what is of them yet to<g ref="char:EOLhyphen"/>gether, which will be but a ſmall number, being that they ran to all Arts; but the Weather is ſo horrible, that I fear I ſhall be obliged to give it over.</p>
+            <p>I pray God this beginning of this Years Campaign may Prognoſticat a bleſ<g ref="char:EOLhyphen"/>ſing upon Their Majeſties Forces, ſo that an end may be made of this trouble<g ref="char:EOLhyphen"/>ſome War this Summer.</p>
+            <p>I deſire, Sir, you would ſend me immediatly Orders what to do with the Priſoners, for at <hi>Inverneſs</hi> they cannot poſſibly be kept. Expecting your Honours Orders, what you think fit ſhall be done further, I am extreamly troubled to make the Horſe ſubſiſt, and remain, Honoured Sir, Yours, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>T. Livingstone.</signed>
+            </closer>
+            <argument>
+               <p>The Letter is directed thus, For the Honourable Major-General-<hi>Mackay,</hi> Commander in Chief of Their Majeſties Forces in <hi>Scotland.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>Captain <hi>Mackay</hi> and his High-land Company behaved very well: If, as Major <hi>Mackay</hi> ſayes, that we can have more of them, it would not be amiſs.</p>
+            <p>After the buſineſs was over, we drank your Health in good Claret taken from the Rebels. The Narration is ſomewhat long, and lame, but it is the true and real Accompt of all. Here incloſed is a Liſt of ſome of the Priſoners names, and ſome Papers that are taken. The Officers that are taken declare the High-land Army was betwixt fourteen and fifteen hundred.</p>
+         </div>
+         <div type="list_of_officers">
+            <list>
+               <head>A Liſt of Officers taken at the Battel of <hi>Crombdell,</hi> on <date>the Firſt of <hi>May,</hi> 1690.</date>
+               </head>
+               <item>Capt. <hi>Huchings.</hi>
+               </item>
+               <item>Capt. <hi>John M<hi rend="sup">c</hi>clean.</hi>
+               </item>
+               <item>Capt. <hi>Allan M<hi rend="sup">c</hi>clean.</hi>
+               </item>
+               <item>Capt. <hi>John Colloe.</hi>
+               </item>
+               <item>Leiutenant <hi>John M<hi rend="sup">c</hi>clean.</hi>
+               </item>
+               <item>Leiutenant <hi>Alex. Halliburton.</hi>
+               </item>
+               <item>Coronet <hi>Andrew Baird.</hi>
+               </item>
+               <item>Enſign <hi>John M<hi rend="sup">c</hi>clean.</hi>
+               </item>
+               <item>Enſign <hi>John M<hi rend="sup">c</hi>naughton:</hi>
+               </item>
+               <item>
+                  <hi>Charles Cornwell</hi> Volunteer.</item>
+            </list>
+            <list>
+               <head>Officers taken in the Caſtle of <hi>Lethen-dee.</hi>
+               </head>
+               <item>Capt. <hi>James Buchan.</hi>
+               </item>
+               <item>Capt. <hi>Brown.</hi>
+               </item>
+               <item>Leiutenant <hi>Scratcher.</hi>
+               </item>
+               <item>Leiutenant <hi>Middleton.</hi>
+               </item>
+               <item>Leiutenant <hi>Brawdie.</hi>
+               </item>
+               <item>Leiutenant <hi>Sewell.</hi>
+               </item>
+               <item>Leiutenant <hi>Auchinmootie.</hi>
+               </item>
+               <item>Leiutenant <hi>Drummer.</hi>
+               </item>
+               <item>Enſign <hi>Dunbar.</hi>
+               </item>
+               <item>Enſign <hi>Roſs.</hi>
+               </item>
+            </list>
+            <p>Many more Gentlemen are taken, who will not owne themſelves Officers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
